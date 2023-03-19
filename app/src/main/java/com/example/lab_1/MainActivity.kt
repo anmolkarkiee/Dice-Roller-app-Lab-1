@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.diceroller
+package com.example.lab_1
 
 import android.os.Bundle
 import android.widget.Button
